@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@forms/*": ["src/forms/*"],
+      "@queries/*": ["src/queries/*"],
+      "@mutations/*": ["src/mutations/*"]
+    }
+  }
+}
